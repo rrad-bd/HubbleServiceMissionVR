@@ -7,3 +7,7 @@
 This project combines cutting-edge technologies such as AI, ML, and 3D modeling, and we are using NASA open data to create a true-to-life VR simulation. From the thrilling launch to the meticulous spacewalks and the triumphant return to Earth, the VR experience meticulously recreates every aspect of Servicing Missions.
 
 Through this project, the team aims to inspire people of all ages to explore the wonders of space and gain a deeper appreciation for the Hubble Space Telescope's groundbreaking work. **Hubble Servicing Mission VR** is more than just a VR simulation; it's a journey into the cosmos and a celebration of human achievement in space exploration.
+
+# Introduction Video
+
+[![Video](https://img.youtube.com/vi/MuLqE-BrdCs/maxresdefault.jpg)](https://www.youtube.com/watch?v=MuLqE-BrdCs)
